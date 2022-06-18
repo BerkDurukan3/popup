@@ -1,0 +1,17 @@
+.select-font {
+  width: 350px;
+  height: 41px;
+  background: #ededed;
+  border: none;
+  user-select: none;
+}
+
+select:not(:checked) {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+  padding-left: 15px;
+}

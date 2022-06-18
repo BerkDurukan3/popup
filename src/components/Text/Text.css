@@ -1,0 +1,29 @@
+.text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 24px !important;
+  text-decoration-line: underline;
+}
+
+.marg-top {
+  margin-top: 33px;
+}
+
+.description-input {
+  font-size: 20px;
+  width: 312px;
+  text-align: center;
+  overflow: hidden;
+}
+.headline-input {
+  font-size: 64px !important;
+  width: 371px;
+  text-align: center;
+}

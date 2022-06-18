@@ -1,0 +1,33 @@
+.input-box {
+  width: 350px;
+  height: 48px;
+  border: 1px solid #d2dae3;
+  border-radius: 8px;
+}
+
+input[type="text"] {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+  padding: 15px 15px;
+  box-sizing: border-box;
+}
+
+input[placeholder] {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+  border: 1px solid #d2dae3;
+  border-radius: 8px;
+}
+
+.popup-input {
+  height: 41px;
+  background: #ededed;
+  border: 1px solid #d2dae3;
+  border-radius: 0px !important;
+}

@@ -1,0 +1,13 @@
+.close {
+  background: #639105;
+  width: 32px;
+  height: 32px;
+  border-radius: 25px;
+  margin: 16px;
+}
+
+.close-container {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}

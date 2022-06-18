@@ -1,0 +1,14 @@
+.popup-btn {
+  text-align: center;
+  color: #ffffff !important;
+  width: 350px;
+  height: 41px;
+  border: none;
+  background: #639105;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+  margin-bottom: 10px;
+}
